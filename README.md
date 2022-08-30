@@ -2,9 +2,9 @@
 
 This web applitcation features a web api that stores national park data that can then be searched and explored by the user. A seperate admin page can be used to add new national park data or update old data. 
 
-<!-- **Link to project:** Link still needed! -->
+**Link to project:** https://national-park-api.netlify.app/
 
-<!-- ![alt tag](Image needed!) -->
+![Website preview](https://i.imgur.com/as4TcqX.png) -->
 
 ## How It's Made:
 
@@ -14,7 +14,7 @@ This is a fullstack web app running on NodeJS and Mongodb. Park data is stored i
 
 ## Optimizations
 
-Organization of this project's files is a mess, which makes the project more difficult to update than it needs to be. I want to refactor the application with an MVC arcitecture in mind, which would allow me to build upon it much easier in the future. I plan to add features such as authentification so that users can login and post comments and personal stories for the National Parks they've visited or plan to see in the future. 
+Organization of this project's files is a mess, which makes the project more difficult to update than it needs to be. I want to refactor the application with an MVC arcitecture in mind, which would allow me to build upon it much easier in the future. I plan to add features such as authentification so that users can login and post comments and personal stories for the National Parks they've visited or plan to see in the future. There's also a major bug that basically breaks the basic function of the site, so consider this project a work in progress. 
 
 ## Lessons Learned:
 
