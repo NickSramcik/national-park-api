@@ -4,7 +4,7 @@ This web applitcation features a web api that stores national park data that can
 
 **Link to project:** https://national-park-api.netlify.app/
 
-![Website preview](https://i.imgur.com/as4TcqX.png) -->
+![Website preview](https://i.imgur.com/as4TcqX.png)
 
 ## How It's Made:
 
